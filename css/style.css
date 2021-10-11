@@ -43,7 +43,7 @@
  .other{
      width: 50px;
      height: 90px;
-     background-color: blue;
+     background-color: #fff;
      background-image: url(../Images/abc2.jpg);
      position: absolute;
      bottom: 120px;
